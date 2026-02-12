@@ -6,6 +6,10 @@ from ramadan_calendar_to_pdf import run_calendar
 
 app = Flask(__name__)
 
+# Allow your HostGator site to call this API
+CORS(app, origins=["https://thearmanfamily.com", "https://www.thearmanfamily.com"])
+
+
 ALLOWED_DST = {"LOCK", "DST"}
 
 @app.post("/generate")
