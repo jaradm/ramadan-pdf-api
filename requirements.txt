@@ -1,8 +1,8 @@
 Flask
 gunicorn
+requests
+pgeocode
+pypdf
 reportlab
-PyPDF2
-geopy
-pytz
-hijri-converter
-astral
+arabic-reshaper
+python-bidi
