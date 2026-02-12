@@ -1,0 +1,8 @@
+Flask
+gunicorn
+reportlab
+PyPDF2
+geopy
+pytz
+hijri-converter
+astral
