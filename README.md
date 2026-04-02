@@ -149,4 +149,4 @@ Add your license here (MIT recommended).
 
 ## 👤 Author
 
-**Muhammad Jamal**
+**Muhammad Jamal Jarad**
